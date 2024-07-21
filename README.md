@@ -61,14 +61,6 @@ This repository contains a Jupyter Notebook that demonstrates how to fetch and p
 
 5. The resulting CSV file will be saved in the same directory as the notebook.
 
-## Data Cleaning
-
-The notebook includes steps to standardize and clean the retrieved data:
-
-- Standardizes month representations (e.g., "Jan" to "01")
-- Converts year and day to numeric format
-- Handles missing data by replacing empty values with "no_data" (optional)
-
 ## Customization
 
 You can easily modify the notebook to suit your specific needs:
