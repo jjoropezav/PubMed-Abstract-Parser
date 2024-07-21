@@ -27,8 +27,8 @@ This repository contains a Jupyter Notebook that demonstrates how to fetch and p
 
 1. Clone this repository:
    ```
-   git clone https://github.com/your-username/pubmed-abstract-parser.git
-   cd pubmed-abstract-parser
+   git clone https://github.com/your-username/Pubmed-Abstract-Parser.git
+   cd Pubmed-Abstract-Parser
    ```
 
 2. Install the required packages:
