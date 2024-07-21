@@ -12,7 +12,6 @@ This repository contains a Jupyter Notebook that demonstrates how to fetch and p
 - Extracts key information such as title, authors, journal, publication date, DOI, and more
 - Handles text encoding and normalization
 - Saves parsed data into a CSV file
-- Includes data cleaning and standardization steps for dates
 
 ## Requirements
 
